@@ -23,6 +23,10 @@ nav {
     padding: 7px;
 }
 
+.navinha {
+    margin: 10px;
+}
+
 .home, .quemsomos, .contatos, .comidas {
     background-color: red;
     padding: 5px;

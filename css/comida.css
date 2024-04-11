@@ -21,7 +21,6 @@ a {
 
 nav {
     padding: 7px;
-
 }
 
 .navinha {
@@ -35,11 +34,21 @@ nav {
 }
 
 article {
-    color: white;
-    text-shadow: 1px 1px 2px black;
+    margin: 25px;
     background-color: red;
-    width: 30cm;
-    padding: 2cm;
-    font-size: 2cm;
-    border: 5px solid white;
+    padding: 5px;
+    width: 20cm;
+    height: 9cm;
+}
+
+img {
+    width: 65%;
+    float: left;
+    overflow: auto;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+    text-shadow: 1px 1px 0px black;
 }
