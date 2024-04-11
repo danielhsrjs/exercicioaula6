@@ -34,7 +34,7 @@ nav {
     padding: 7px;
 }
 
-.quemsomos, .contatos, .comidas {
+.home, .quemsomos, .contatos, .comidas {
     background-color: red;
     padding: 5px;
     border: 2px white solid;
@@ -53,4 +53,4 @@ nav {
 footer {
    color: white;
    text-shadow: 1px 1px 0px black;
-}
+} 
